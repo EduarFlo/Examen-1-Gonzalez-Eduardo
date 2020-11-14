@@ -47,7 +47,8 @@ p{
 }
 
 .titles{
-  color: #A31621;
+  color: #DC602E;
+  font-size: 24px;
 }
 
 .datos{
@@ -87,6 +88,20 @@ p{
   font-size: larger;
   list-style: none;
   font-style: inherit;
+}
+
+.btnAgregar{
+  cursor: pointer;
+  background-color: #F87257;
+  border: 2px solid #F87257;
+  border-radius: 4px;
+  color: #fff;
+  display: block;
+  font-family: inherit;
+  font-size: 16px;
+  padding: 10px;
+  margin-top: 20px;
+  width: 100%;
 }
 
 ol {
